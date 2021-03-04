@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### [Personal website](https://gabrf.com)
+### [Website](https://gabrf.com)
+### [Blog](https://blog.gabrf.com) [*portuguese only*]
 
 <!--
 **GabrielRF/GabrielRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
